@@ -1,3 +1,8 @@
+---
+title: Terms of Service
+description: Zaimea Terms of Service
+---
+
 # Terms of Service
 
 ### Conditions of use

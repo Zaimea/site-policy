@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+description: Zaimea General Privacy Statement
+---
+
 # Privacy Policy
 
 This website is operated by Code With Dary and whose registered address is [Trust address] (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
