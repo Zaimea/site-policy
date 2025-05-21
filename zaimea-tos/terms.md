@@ -1,6 +1,7 @@
 ---
 title: Terms of Service
 description: Zaimea Terms of Service
+github: https://github.com/zaimea/site-policy/edit/main/
 ---
 
 # Terms of Service
