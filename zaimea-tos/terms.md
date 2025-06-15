@@ -2,19 +2,6 @@
 title: Terms of Service
 description: Zaimea Terms of Service
 github: https://github.com/zaimea/site-policy/edit/main/
-sections:
-    condition-of-use : 'Conditions of use'
-    privacy-policy : 'Privacy Policy'
-    age-restriction : 'Age restriction'
-    intellectual-property : 'Intellectual property'
-    user-accounts : 'User accounts'
-    termination : 'Termination'
-    disclaimer : 'Disclaimer'
-    applicable-law : 'Applicable law'
-    disputes : 'Disputes'
-    changes : 'Changes'
-    limitation-on-liability : 'Limitation on liability'
-    contact-us : 'Contact Us'
 ---
 ---
 

@@ -2,17 +2,6 @@
 title: Privacy Policy
 description: Zaimea General Privacy Statement
 github: https://github.com/zaimea/site-policy/edit/main/
-sections: 
-    information-you-supply-to-us : 'Types of information we may collect from you'
-    types-of-information-we-may-collect-from-you : 'Information you supply to us'
-    information-our-website-automatically-collects-about-you : 'Information our website automatically collects about you'
-    cookies : 'Cookies'
-    how-we-may-use-the-information-we-collect : 'How we may use the information we collect'
-    disclosure-of-your-information : 'Disclosure of your information'
-    third-party-links : 'Third party links'
-    your-rights : 'Your rights – access to your personal data'
-    changes-to-our-privacy-policy : 'Changes to our privacy policy'
-    contact : 'Contact'
 ---
 
 # Privacy Policy
