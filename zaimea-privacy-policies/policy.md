@@ -64,4 +64,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [mail@zaimea.com].
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [mail@zaimea.com] or on our [contact page](route('contact')).

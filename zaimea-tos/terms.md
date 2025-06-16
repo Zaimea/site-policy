@@ -23,7 +23,7 @@ By accessing or using the Service you agree to be bound by these Terms. If you d
 
 ### Privacy policy
 
-Before you continue using our website, we advise you to read our <a href="https://zaimea.com/privacy-policy">privacy policy</a> regarding our user data collection. It will help you better understand our practices.
+Before you continue using our website, we advise you to read our [privacy policy](route('privacy-policy')) regarding our user data collection. It will help you better understand our practices.
 
 ### Age restriction
 
@@ -53,7 +53,7 @@ Your use of the Service is at your sole risk. The Service is provided on an "AS 
 
 Zaimea.com its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
-Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service or delete your account using <a href="http://zaimea.com/user/settings"> Delete account</a>.
+Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service or delete your account using <a href="http://groups.zaimea.com/user/settings"> Delete account</a>.
 
 ### Applicable law
 
