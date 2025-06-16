@@ -23,7 +23,7 @@ By accessing or using the Service you agree to be bound by these Terms. If you d
 
 ### Privacy policy
 
-Before you continue using our website, we advise you to read our [privacy policy](route('privacy-policy')) regarding our user data collection. It will help you better understand our practices.
+Before you continue using our website, we advise you to read our [privacy policy](route('privacy.show')) regarding our user data collection. It will help you better understand our practices.
 
 ### Age restriction
 
