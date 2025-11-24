@@ -2,6 +2,9 @@
 title: Privacy Policy
 description: Zaimea General Privacy Statement
 github: https://github.com/zaimea/site-policy/edit/main/
+onThisArticle: false
+sidebar: false
+rightbar: false
 ---
 
 # Privacy Policy
