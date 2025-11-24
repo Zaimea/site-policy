@@ -2,9 +2,9 @@
 title: Terms of Service
 description: Zaimea Terms of Service
 github: https://github.com/zaimea/site-policy/edit/main/
-onThisArticle: false
+onThisArticle: true
 sidebar: false
-rightbar: false
+rightbar: true
 ---
 
 # Terms of Service
